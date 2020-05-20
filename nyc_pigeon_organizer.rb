@@ -15,9 +15,9 @@ def nyc_pigeon_organizer(data)
    end
     pigeon_list[names][three_attributes].push(inside_keys.to_s)
      end
-     binding.pry
+     #binding.pry
       end
   end
   pigeon_list
 end
-binding.pry
+#binding.pry
